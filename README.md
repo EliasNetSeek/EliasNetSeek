@@ -1,3 +1,4 @@
+```elixir
 defmodule Dev do
   defstruct name: "Elias",
             role: "Software Engineer",
@@ -29,3 +30,4 @@ defmodule GenerateReadme do
     IO.puts(generate_readme(me))
   end
 end
+```
